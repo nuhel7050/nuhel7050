@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ahsan Kabir Nuhel! 👋
 
 🚀 **Autonomous Systems Enthusiast | HBRS Student**  
 👨‍💻 Building intelligent machines to navigate the future.  
