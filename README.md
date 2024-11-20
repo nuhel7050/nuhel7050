@@ -7,7 +7,7 @@
 📚 Erasmus Mundus Scholar  
 
 ### Skills & Interests
-- 🌟 Machine Learning | Deep Learning | Computer Vision
+- 🌟 Robotics | Machine Learning | Deep Learning | Computer Vision
 - 🤖 Robotics | Autonomous Systems 
 - 💻 Programming: Python, C++, ROS2 Humble
 
