@@ -11,11 +11,15 @@
 - 🤖 Robotics | Autonomous Systems 
 - 💻 Programming: Python, C++, ROS2 Humble
 
-### Get in Touch
-- 📫 Email: your.email@example.com
-- 🌐 Portfolio: [Your Website or Portfolio Link](https://yourportfolio.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourlinkedin)
+### 🌐 Connect with Me
+- 📫 Email: [nuhel7050@gmail.com](mailto:nuhel7050@gmail.com)
+- 💼 LinkedIn: [Ahsan Kabir Nuhel](https://www.linkedin.com/in/ahsan-kabir-nuhel/)
+- 🌐 Personal Website: [Ahsan Kabir Nuhel](https://sites.google.com/view/ahsan-kabir-nuhel/home?authuser=0)
+- 📖 Google Scholar: [Ahsan Kabir Nuhel](https://scholar.google.com/citations?user=pALKW8kAAAAJ&hl=en)
+
+---
 
 Let’s innovate together! 🌟
+
+
 
