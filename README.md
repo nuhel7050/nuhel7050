@@ -4,12 +4,12 @@
 👨‍💻 Building intelligent machines to navigate the future.  
 🔍 Exploring AI, Robotics, and the art of making systems think and act.  
 🛠️ Passionate about coding, solving engineering challenges, and bridging theory with real-world applications.  
-📚 Erasmus Mundus Scholar | Fraunhofer Research Aspirant  
+📚 Erasmus Mundus Scholar  
 
 ### Skills & Interests
 - 🌟 Machine Learning | Deep Learning | Computer Vision
-- 🤖 Robotics | Autonomous Systems | MEMS
-- 💻 Programming: Python, C++, ROS
+- 🤖 Robotics | Autonomous Systems 
+- 💻 Programming: Python, C++, ROS2 Humble
 
 ### Get in Touch
 - 📫 Email: your.email@example.com
