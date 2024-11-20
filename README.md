@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**nuhel7050/nuhel7050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Autonomous Systems Enthusiast | HBRS Student**  
+👨‍💻 Building intelligent machines to navigate the future.  
+🔍 Exploring AI, Robotics, and the art of making systems think and act.  
+🛠️ Passionate about coding, solving engineering challenges, and bridging theory with real-world applications.  
+📚 Erasmus Mundus Scholar | Fraunhofer Research Aspirant  
 
-Here are some ideas to get you started:
+### Skills & Interests
+- 🌟 Machine Learning | Deep Learning | Computer Vision
+- 🤖 Robotics | Autonomous Systems | MEMS
+- 💻 Programming: Python, C++, ROS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+- 📫 Email: your.email@example.com
+- 🌐 Portfolio: [Your Website or Portfolio Link](https://yourportfolio.com)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 💼 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourlinkedin)
+
+Let’s innovate together! 🌟
+
