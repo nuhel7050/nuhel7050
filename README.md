@@ -1,6 +1,6 @@
 # Hi there, I'm Ahsan Kabir Nuhel! 👋
 
-🚀 **Robotics and Autonomous Systems Enthusiast | 
+🚀 Robotics and Autonomous Systems Enthusiast | 
 👨‍💻 Building intelligent machines to navigate the future.  
 🔍 Exploring AI, Robotics, and the art of making systems think and act.  
 🛠️ Passionate about coding, solving engineering challenges, and bridging theory with real-world applications.  
