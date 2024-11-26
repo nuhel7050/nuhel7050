@@ -13,7 +13,7 @@
 ### Skills & Interests
 - 🌟 Robotics | Machine Learning | Deep Learning | Computer Vision| PLC Programming| HMI Programming| Industrial Automation
 - 🤖 Robotics | Autonomous Systems 
-- 💻 Programming: Python, C++, ROS2 Humble
+- 💻 Programming: Python, C++, ROS2 Humble, Ladder Logic, C, Arduino
 
 ### 🌐 Connect with Me
 - 📫 Email: [nuhel7050@gmail.com](mailto:nuhel7050@gmail.com)
