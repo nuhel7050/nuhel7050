@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" />
+
 # Ahsan Kabir Nuhel
 
 **Robotics · Autonomous Systems · Machine Learning · Industrial Automation**
@@ -76,9 +78,17 @@ Erasmus Mundus Scholar specializing in robotics, autonomous systems, and intelli
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuhel7050&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<a href="https://github.com/nuhel7050">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuhel7050&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhel7050&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/nuhel7050?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhel7050&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</a>
+
+<a href="https://github.com/nuhel7050">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nuhel7050&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
